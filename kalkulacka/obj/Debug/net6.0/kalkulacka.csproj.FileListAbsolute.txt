@@ -1,0 +1,15 @@
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka\bin\Debug\net6.0\kalkulacka.exe
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka\bin\Debug\net6.0\kalkulacka.deps.json
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka\bin\Debug\net6.0\kalkulacka.runtimeconfig.json
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka\bin\Debug\net6.0\kalkulacka.dll
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka\bin\Debug\net6.0\kalkulacka.pdb
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka\obj\Debug\net6.0\kalkulacka.csproj.AssemblyReference.cache
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka\obj\Debug\net6.0\kalkulacka.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka\obj\Debug\net6.0\kalkulacka.AssemblyInfoInputs.cache
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka\obj\Debug\net6.0\kalkulacka.AssemblyInfo.cs
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka\obj\Debug\net6.0\kalkulacka.csproj.CoreCompileInputs.cache
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka\obj\Debug\net6.0\kalkulacka.dll
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka\obj\Debug\net6.0\refint\kalkulacka.dll
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka\obj\Debug\net6.0\kalkulacka.pdb
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka\obj\Debug\net6.0\kalkulacka.genruntimeconfig.cache
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka\obj\Debug\net6.0\ref\kalkulacka.dll
