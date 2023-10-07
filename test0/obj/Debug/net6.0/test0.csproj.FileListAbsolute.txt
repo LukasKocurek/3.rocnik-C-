@@ -1,0 +1,15 @@
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\test0\obj\Debug\net6.0\test0.csproj.AssemblyReference.cache
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\test0\obj\Debug\net6.0\test0.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\test0\obj\Debug\net6.0\test0.AssemblyInfoInputs.cache
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\test0\obj\Debug\net6.0\test0.AssemblyInfo.cs
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\test0\obj\Debug\net6.0\test0.csproj.CoreCompileInputs.cache
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\test0\bin\Debug\net6.0\test0.exe
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\test0\bin\Debug\net6.0\test0.deps.json
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\test0\bin\Debug\net6.0\test0.runtimeconfig.json
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\test0\bin\Debug\net6.0\test0.dll
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\test0\bin\Debug\net6.0\test0.pdb
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\test0\obj\Debug\net6.0\test0.dll
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\test0\obj\Debug\net6.0\refint\test0.dll
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\test0\obj\Debug\net6.0\test0.pdb
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\test0\obj\Debug\net6.0\test0.genruntimeconfig.cache
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\test0\obj\Debug\net6.0\ref\test0.dll

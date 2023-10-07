@@ -1,0 +1,15 @@
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka-switch-cyklus\obj\Debug\net6.0\kalkulacka-switch-cyklus.csproj.AssemblyReference.cache
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka-switch-cyklus\obj\Debug\net6.0\kalkulacka-switch-cyklus.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka-switch-cyklus\obj\Debug\net6.0\kalkulacka-switch-cyklus.AssemblyInfoInputs.cache
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka-switch-cyklus\obj\Debug\net6.0\kalkulacka-switch-cyklus.AssemblyInfo.cs
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka-switch-cyklus\obj\Debug\net6.0\kalkulacka-switch-cyklus.csproj.CoreCompileInputs.cache
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka-switch-cyklus\bin\Debug\net6.0\kalkulacka-switch-cyklus.exe
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka-switch-cyklus\bin\Debug\net6.0\kalkulacka-switch-cyklus.deps.json
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka-switch-cyklus\bin\Debug\net6.0\kalkulacka-switch-cyklus.runtimeconfig.json
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka-switch-cyklus\bin\Debug\net6.0\kalkulacka-switch-cyklus.dll
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka-switch-cyklus\bin\Debug\net6.0\kalkulacka-switch-cyklus.pdb
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka-switch-cyklus\obj\Debug\net6.0\kalkulacka-switch-cyklus.dll
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka-switch-cyklus\obj\Debug\net6.0\refint\kalkulacka-switch-cyklus.dll
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka-switch-cyklus\obj\Debug\net6.0\kalkulacka-switch-cyklus.pdb
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka-switch-cyklus\obj\Debug\net6.0\kalkulacka-switch-cyklus.genruntimeconfig.cache
+E:\Users\Lukáš\Dokumenty\GitHub\3.rocnik-C-\kalkulacka-switch-cyklus\obj\Debug\net6.0\ref\kalkulacka-switch-cyklus.dll
